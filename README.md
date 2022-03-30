@@ -3,7 +3,9 @@ Node.Js CRUD application - Bachelor Développeur FullStack Région {promo 02/202
 
 Application de gestion de livres - Projet noté
 
-Technologies : 
+
+
+Technologies utilisées : 
 
 * Node.JS
 * Express
