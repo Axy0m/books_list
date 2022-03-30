@@ -1,5 +1,5 @@
 # books_list
-Node.Js CRUD application - Bachelor Développeur FullStack Région {promo 02/2022 - 09/2022} - Metz Numeric Sschool
+Node.Js CRUD application - Bachelor Développeur FullStack Région [promo 02/2022 - 09/2022] - Metz Numeric School
 
 Application de gestion de livres - Projet noté
 
