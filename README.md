@@ -11,7 +11,7 @@ Technologies :
 * Morgan pour afficher les requêtes dans la console
 * moteur de template Twig
 * Multer pour la gestion des images
-* MongoDB / moongoose
+* MongoDB / mongoose
 
 Thème utilisé sous Bootstrap 5 : https://bootswatch.com/vapor/
 
